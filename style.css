@@ -1,0 +1,87 @@
+body
+{
+	background-image:url("concrete_seamless.png");
+}
+
+#wrapper
+{
+	width:960px;
+	height:1800px;
+	background:black;
+	margin:0 auto;
+}
+
+#contact
+{
+	width:100%;
+	height:25%;
+	background:yellow;	
+	float:left;
+	font-family:calibri;
+	font-size:20px;
+	text-align:center;
+}
+
+#header
+{
+	width:100%;
+	height:10%;
+	background:MediumSeaGreen;
+	font-family:calibri;
+	font-size:34px;
+	text-align: center;
+}
+
+#me
+{
+	width:50%;
+	height:25%;
+	background:green;
+	float:left;
+	text-align:center;
+}
+
+#picture
+{
+	width:50%;
+	height:25%;
+	background:blue;
+	float:left;
+}
+
+
+#touch
+{
+	font-family:calibri;
+	font-size:15px;
+}
+
+#education
+{
+	width:50%;
+	height:40%;
+	background:red;
+	float:left;
+	
+}
+
+#exp
+{
+	width:50%;
+	height:40%;
+	background:blue;
+	float:right;
+}
+
+#worker
+{
+	text-align:center;
+	font-family:calibri;
+	font-size:20px;
+}
+
+textarea
+ {
+width:475px;
+height:140px;
+}
